@@ -6,6 +6,5 @@ This is the repository of my studies of the Hazel Engine created by Cherno in hi
 ```
 src
     WizardHazel
-        Core.cpp - 
         Core.h - Basic macros
 ```
